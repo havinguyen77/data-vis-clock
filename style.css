@@ -81,14 +81,116 @@ body{
 }
 
 
-@media (min-width: 576px) {
+@media (min-width: 350px) {
+   .header-text{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 50px; 
+    text-align: center; 
+  }
+  .quote-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 20px; 
+    text-align: center; 
+  }
+  .margin-header{
+    margin-top: 40px; 
+  }
+  .margin-quote{
+    margin-top: 8px; 
+  }
+  .basic-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 14px; 
+    text-align: center;
+  }
+  .small-header{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 22px; 
+    text-align: center; 
+  }
+}
  }
 
 @media (min-width: 768px) {
-
+    .header-text{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 60px; 
+    text-align: center; 
+  }
+  .quote-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 24px; 
+    text-align: center; 
+  }
+  .margin-header{
+    margin-top: 50px; 
+  }
+  .margin-quote{
+    margin-top: 10px; 
+  }
+  .basic-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 15px; 
+    text-align: center;
+  }
+  .small-header{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 24px; 
+    text-align: center; 
+  }
 }
 
 @media (min-width: 992px) { 
+  .header-text{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 75px; 
+    text-align: center; 
+  }
+  .quote-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 27px; 
+    text-align: center; 
+  }
+  .margin-header{
+    margin-top: 60px; 
+  }
+  .margin-quote{
+    margin-top: 13px; 
+  }
+  .basic-text{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 400; 
+    font-size: 15px; 
+    text-align: center;
+  }
+  .small-header{
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff; 
+    font-weight: 400; 
+    font-size: 26px; 
+    text-align: center; 
+  }
 }
 
 @media (min-width: 1200px) {
