@@ -58,28 +58,9 @@ body{
   -webkit-animation:move-twink-back 200s linear infinite;
   animation:move-twink-back 200s linear infinite;
 }
-
-.gray{
-  color:#4D5359;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600; 
+.color-red{
+  background-color:  #c3c3c3;
 }
-.green{
-  color: #225438;
-  font-family: 'Oswald', sans-serif;
-  font-weight: 500; 
-}
-.brown{
-  color: #4A4238;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-}
-.dust{
-  color:#E9D2C0;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-}
-
 
 @media (min-width: 576px) {
  }
@@ -96,34 +77,14 @@ body{
     font-family: 'Oswald', sans-serif;
     color: #ffffff; 
     font-weight: 400; 
-    font-size: 80px; 
+    font-size: 70px; 
     text-align: center; 
   }
   .quote-text{
     font-family: 'Raleway', sans-serif;
     color: #ffffff;
     font-weight: 400; 
-    font-size: 30px; 
-    text-align: center; 
-  }
-  .margin-header{
-    margin-top: 80px; 
-  }
-  .margin-quote{
-    margin-top: 20px; 
-  }
-  .basic-text{
-    font-family: 'Raleway', sans-serif;
-    color: #ffffff;
-    font-weight: 400; 
-    font-size: 18px; 
-    text-align: center;
-  }
-  .small-header{
-    font-family: 'Oswald', sans-serif;
-    color: #ffffff; 
-    font-weight: 400; 
-    font-size: 30px; 
+    font-size: 24px; 
     text-align: center; 
   }
   
