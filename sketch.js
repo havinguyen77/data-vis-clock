@@ -17,14 +17,15 @@ function draw() {
     bolt(min); 
     ship(hr); 
 
-  var galaxy = { 
-  locationX : random(width*2.5),
-  locationY : random(height*2.5),
-  size : random(1,5)
-}
-  ellipse(galaxy.locationX -500 ,galaxy.locationY -500, galaxy.size, galaxy.size);
-  ellipse(galaxy.locationX ,galaxy.locationY, galaxy.size, galaxy.size);
+    var galaxy = { 
+    locationX : random(width*2.5),
+    locationY : random(height*2.5),
+    size : random(1,5)
+    }
+    ellipse(galaxy.locationX -500 ,galaxy.locationY -500, galaxy.size, galaxy.size);
+    ellipse(galaxy.locationX ,galaxy.locationY, galaxy.size, galaxy.size);
 
+    console.log(minute()); 
 
 }
 
